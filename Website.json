@@ -87,7 +87,8 @@
           "properties": {
             "packageUri": "https://storageaccountspektra.blob.core.windows.net/templates/myarchive.zip",
             "dbType": "None",
-            "connectionString": ""
+            "connectionString": null,
+            
           }
         }
       ]
